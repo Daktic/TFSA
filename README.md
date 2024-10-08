@@ -1,15 +1,13 @@
 # TFSA
+![image](https://github.com/user-attachments/assets/9b08d30e-0258-41ea-85aa-862f70258a7c)
 
-- The README should include:
+The Transportation Flexible Spending Account (TFSA) ecosystem, is an EVM-compatible DApp and token that facilitates a universal metro card network that allows users to transfer remaining balance from one metro to another.
+  
+- The TFSA DApp is built on the Rootstock ecosystem core contracts include the metro aggregator smart contract and the TFSA token contract. Additional token contracts are added based on the metro network issuing their ERC20 token.
 
-1) a clear short one-sentence description of your submission.
+- Garret Berg, Carlo Burgos, Annajune Ghrist, and Karim Hassan consultants from Accenture
 
-2) a short description of what you integrated Rootstock with and how.
+- Testing for integrations included were...
 
-3) a short description of the team and their backgrounds.
+- Building on Rootstock....
 
-4) clear instructions for testing the integration.
-
-5) feedback describing your experience with building on Rootstock.
-
-6) optionally, a short video demo or slide deck.
