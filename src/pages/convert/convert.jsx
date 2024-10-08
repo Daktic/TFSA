@@ -4,6 +4,7 @@ import {useLocation} from "react-router-dom";
 import {ConfirmationMsg} from "../../common/ConfirmationMsg.jsx";
 import {useEffect, useState} from "react";
 import {calculateTokenConversionRate} from "../../lib.js";
+import {ConfirmDeny} from "../../common/ConfirmDeny.jsx";
 
 
 
@@ -36,6 +37,7 @@ function Convert() {
                onChange={handleInputChange}
                placeholder="Enter amount"
            />
+           <ConfirmDeny />
        </div>
     );
 };
