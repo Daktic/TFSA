@@ -1,19 +1,40 @@
 # TFSA
 ![image](https://github.com/user-attachments/assets/9b08d30e-0258-41ea-85aa-862f70258a7c)
 
-The Transportation Flexible Spending Account (TFSA) ecosystem, is an EVM-compatible DApp and token that facilitates a universal metro card network that allows users to transfer remaining balance from one metro to another.
-  
-- The TFSA DApp is built on the Rootstock ecosystem core contracts include the metro aggregator smart contract and the TFSA token contract. Additional token contracts are added based on the metro network issuing their ERC20 token.
+## Description
+The Transportation Flexible Spending Account (TFSA) ecosystem is an EVM-compatible DApp and token that facilitates a universal metro card network, allows users to transfer remaining balance from one metro to another.
 
-- Garret Berg, Carlo Burgos, Annajune Ghrist, and Karim Hassan consultants from Accenture
+See below for a more detailed description :)
 
-- Testing for integrations included were...
+## Rootstock Integration
+The TFSA DApp is built and deployed on the Rootstock ecosystem; core contracts include the Metro Aggregator smart contract and the TFSA token contract. Additional token contracts are added as each metro network issues their ERC20 token.
 
-- Building on Rootstock....
+// testnet explorer contract links?
 
-# Questions and Concerns Include:
-- What if people can just pay directly without buying metro-specific fare, e.g. in NYC metro can just use credit card directly?
-  - Not all metros have this, we're designing this for all metros
+## Team
+We are a team from Accenture's Digital Assets practice. We all have solid technical backgrounds and industry knowledge/familiarity, but a mix of experience levels with web3 and frontend development.  
+- Garret Berg: Data Engineer/Web3 Dev
+- Carlo Burgos: Lead Software Architect
+- Annajune Ghrist: Data Scientist
+- Karim Hassan: Data Analyst
+
+## Testing the Integration
+
+// probably good to mention how to exclude the AWS component, that could potentially impact ability to test
+
+## Experience Developing with Rootstock
+
+// really easy to get up and running
+  // demos from team and documentation were very helpful!
+// testnet explorer good, but maybe an issue with showing txn timestamps?
+
+## Detailed Project Description
+
+In selecting a project, our aim was to make something with real-world utility both for existing and new crypto users.
+
+### Addressing Potential Questions and Concerns:
+- What if people can just pay directly without buying metro-specific fare? E.g. in the NYC metro, users can just use a credit card directly to pay fare.
+  - Not all metros have this; we are designing this with all metros in mind :)
   - Employer subsidy case - employer isnt just going to give you cash
 - How does the volatility in price of ETH, BTC, other tokens that can be exchanged for TFSA impact the monetary value of TFSA? Will employers have to pay more to stock their employees commute accounts if BTC is up?
   - The TFSA has its own ecosystem meaning the price of the TFSA token will be dependent on the supply and demand of users using the ecosystem. Employers can also directly work with the issuer in which they wouldn't have to pay more and still pay a fixed price.
