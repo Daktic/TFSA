@@ -9,13 +9,15 @@ See below for a more detailed description :)
 ## Rootstock Integration
 The TFSA DApp is built and deployed on the Rootstock ecosystem; core contracts include the Metro Aggregator smart contract and the TFSA token contract. Additional token contracts are added as each metro network issues their ERC20 token.
 
-Metro Aggregator Contract - [0x8412b9446ae027a3e734d478b10935c0a6421288](https://explorer.rootstock.io/address/0x8412b9446ae027a3e734d478b10935c0a6421288)
+MetroAggregator Contract - [0x8412b9446ae027a3e734d478b10935c0a6421288](https://explorer.testnet.rootstock.io/address/0x8412b9446ae027a3e734d478b10935c0a6421288)
 
-TFSA Token Contract - [0x531e0d48cac83fedd2cb4c056188f9dac6d41abc](https://explorer.rootstock.io/address/0x531e0d48cac83fedd2cb4c056188f9dac6d41abc)
+TFSA Token Contract - [0x531e0d48cac83fedd2cb4c056188f9dac6d41abc](https://explorer.testnet.rootstock.io/address/0x531e0d48cac83fedd2cb4c056188f9dac6d41abc)
 
-WMATA Token Contract - [0xb77d1bb38f22bd467a18e30636f41e73d97457cc](https://explorer.rootstock.io/address/0xb77d1bb38f22bd467a18e30636f41e73d97457cc)
+WMATA Token Contract - [0xb77d1bb38f22bd467a18e30636f41e73d97457cc](https://explorer.testnet.rootstock.io/address/0xb77d1bb38f22bd467a18e30636f41e73d97457cc)
 
-TRAX Token Contract - [0xb77d1bb38f22bd467a18e30636f41e73d97457cc](https://explorer.rootstock.io/address/0xb77d1bb38f22bd467a18e30636f41e73d97457cc)
+TRAX Token Contract - [0xb77d1bb38f22bd467a18e30636f41e73d97457cc](https://explorer.testnet.rootstock.io/address/0xb77d1bb38f22bd467a18e30636f41e73d97457cc)
+
+MetroAggregator Treasury Address - [0xe755336a328066d67a50d1bc08cb3dff864f4bac](https://explorer.testnet.rootstock.io/address/0xe755336a328066d67a50d1bc08cb3dff864f4bac)
 
 // links to testnet txns
 
