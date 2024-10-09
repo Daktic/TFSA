@@ -9,12 +9,18 @@ See below for a more detailed description :)
 ## Rootstock Integration
 The TFSA DApp is built and deployed on the Rootstock ecosystem; core contracts include the Metro Aggregator smart contract and the TFSA token contract. Additional token contracts are added as each metro network issues their ERC20 token.
 
-// testnet explorer contract links?
+Metro Aggregator Contract - [0x8412b9446ae027a3e734d478b10935c0a6421288](https://explorer.rootstock.io/address/0x8412b9446ae027a3e734d478b10935c0a6421288)
+
+TFSA Token Contract - [0x531e0d48cac83fedd2cb4c056188f9dac6d41abc](https://explorer.rootstock.io/address/0x531e0d48cac83fedd2cb4c056188f9dac6d41abc)
+
+WMATA Token Contract - [0xb77d1bb38f22bd467a18e30636f41e73d97457cc](https://explorer.rootstock.io/address/0xb77d1bb38f22bd467a18e30636f41e73d97457cc)
+
+TRAX Token Contract - [0xb77d1bb38f22bd467a18e30636f41e73d97457cc](https://explorer.rootstock.io/address/0xb77d1bb38f22bd467a18e30636f41e73d97457cc)
 
 // links to testnet txns
 
 ## Team
-We are a team from Accenture's Digital Assets practice. We all have solid technical backgrounds and industry knowledge/familiarity, but a mix of experience levels with web3 and frontend development.  
+We are a team from Accenture's Digital Assets practice in DC. We all have solid technical backgrounds and industry knowledge/familiarity, but a mix of experience levels with web3 and frontend development.  
 - Garret Berg: Data Engineer/Web3 Dev
 - Carlo Burgos: Lead Software Architect
 - Annajune Ghrist: Data Scientist
@@ -36,12 +42,12 @@ In selecting a project, our aim was to make something with real-world utility bo
 
 ### Addressing Potential Questions and Concerns:
 - What if people can just pay directly without buying metro-specific fare? E.g. in the NYC metro, users can just use a credit card directly to pay fare.
-  - Not all metros have this; we are designing this with all metros in mind :)
-  - Employer subsidy case - employer isnt just going to give you cash
+  - Not all metros have this; we are designing this with all metros in mind. Creating this network would allow users in the ecosystem to be rewarded from it. 
+  - Employer subsidy case - employer isnt just going to give you cash.
 - How does the volatility in price of ETH, BTC, other tokens that can be exchanged for TFSA impact the monetary value of TFSA? Will employers have to pay more to stock their employees commute accounts if BTC is up?
-  - The TFSA has its own ecosystem meaning the price of the TFSA token will be dependent on the supply and demand of users using the ecosystem. Employers can also directly work with the issuer in which they wouldn't have to pay more and still pay a fixed price.
+  - The TFSA has its own ecosystem meaning the price of the TFSA token will be dependent on the supply and demand of users using the ecosystem. Employers can also directly work with the issuer in which they wouldn't have to pay more and can still pay a fixed price.
 - Is this only a use case for the metro system?
-  - No, this can be expanded upon just the metro network, it can include bus, bicycle, other transportation forms, and other FSA types
+  - No, this can be expanded upon just the metro network, it can include bus, bicycle, other transportation forms, and other FSA type accounts. This can also be thought of as a concept in which specific ecosystems can have an umbrella like structure.
 - Why would the transportation companies or governments approve this system change?
   - Users can still pay in fiat if they want to however this optimizes different metro systems across the country while also giving transportation companies an opportunity for another stream of revenue which is from LP rewards and potentially transaction fees onchain
 - How would you make users and companies adopt your system?
