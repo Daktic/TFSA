@@ -11,6 +11,8 @@ The TFSA DApp is built and deployed on the Rootstock ecosystem; core contracts i
 
 // testnet explorer contract links?
 
+// links to testnet txns
+
 ## Team
 We are a team from Accenture's Digital Assets practice. We all have solid technical backgrounds and industry knowledge/familiarity, but a mix of experience levels with web3 and frontend development.  
 - Garret Berg: Data Engineer/Web3 Dev
