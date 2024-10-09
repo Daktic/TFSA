@@ -36,7 +36,7 @@ We are a team from Accenture's Digital Assets practice in DC. We all have solid 
 
 - Really easy to get up and running the EVM-compatability component makes it easy to follow and deploy contract
 - The Rootstock team provided demos during their workshop session and documentation were very helpful!
-- Rootstock Testnet Explorer good, says "address not found" on testnet when there aren't any transactions with that address, maybe an issue with showing txn timestamps?
+- Maybe an issue with showing txn timestamps?
 
 ## Detailed Project Description
 
