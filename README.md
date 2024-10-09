@@ -15,7 +15,7 @@ TFSA Token Contract - [0x531e0d48cac83fedd2cb4c056188f9dac6d41abc](https://explo
 
 WMATA Token Contract - [0xb77d1bb38f22bd467a18e30636f41e73d97457cc](https://explorer.testnet.rootstock.io/address/0xb77d1bb38f22bd467a18e30636f41e73d97457cc)
 
-TRAX Token Contract - [0xb77d1bb38f22bd467a18e30636f41e73d97457cc](https://explorer.testnet.rootstock.io/address/0xb77d1bb38f22bd467a18e30636f41e73d97457cc)
+TRAX Token Contract - [0x53651aB71F1b4A74882A1EC8E9622C24Ebfb597a](https://explorer.testnet.rootstock.io/address/0x53651aB71F1b4A74882A1EC8E9622C24Ebfb597a)
 
 MetroAggregator Treasury Address - [0xe755336a328066d67a50d1bc08cb3dff864f4bac](https://explorer.testnet.rootstock.io/address/0xe755336a328066d67a50d1bc08cb3dff864f4bac)
 
